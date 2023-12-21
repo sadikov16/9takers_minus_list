@@ -28,7 +28,7 @@ const data = [
   {
     key: "3",
     name: "Jamshid",
-    minuses: -77,
+    minuses: -67,
   },
   {
     key: "4",
