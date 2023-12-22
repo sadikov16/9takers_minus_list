@@ -18,12 +18,12 @@ const data = [
   {
     key: "1",
     name: "Jasur",
-    minuses: -48,
+    minuses: -68,
   },
   {
     key: "2",
     name: "Beknazar",
-    minuses: -11,
+    minuses: -27,
   },
   {
     key: "3",
@@ -43,12 +43,12 @@ const data = [
   {
     key: "6",
     name: "Mohidil",
-    minuses: -41,
+    minuses: -51,
   },
   {
     key: "7",
     name: "Dildora",
-    minuses: -12,
+    minuses: -27,
   },
   {
     key: "8",
@@ -58,7 +58,7 @@ const data = [
   {
     key: "9",
     name: "Sarvinoz",
-    minuses: -27,
+    minuses: -25,
   },
   {
     key: "10",
