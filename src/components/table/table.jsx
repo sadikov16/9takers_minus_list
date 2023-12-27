@@ -23,7 +23,7 @@ const data = [
   {
     key: "2",
     name: "Beknazar",
-    minuses: -27,
+    minuses: -13,
   },
   {
     key: "3",
@@ -38,7 +38,7 @@ const data = [
   {
     key: "5",
     name: "Madina",
-    minuses: -30,
+    minuses: -35,
   },
   {
     key: "6",
@@ -53,17 +53,17 @@ const data = [
   {
     key: "8",
     name: "Muhlisa",
-    minuses: -4,
+    minuses: +6,
   },
   {
     key: "9",
     name: "Sarvinoz",
-    minuses: -25,
+    minuses: -35,
   },
   {
-    key: "10",
+    key: "20",
     name: "Odina",
-    minuses: -14,
+    minuses: -20,
   },
 ];
 const List = () => <Table columns={columns} dataSource={data} />;
