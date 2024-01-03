@@ -18,7 +18,7 @@ const data = [
   {
     key: "1",
     name: "Jasur",
-    minuses: -68,
+    minuses: -78,
   },
   {
     key: "2",
@@ -38,7 +38,7 @@ const data = [
   {
     key: "5",
     name: "Madina",
-    minuses: -35,
+    minuses: -25,
   },
   {
     key: "6",
